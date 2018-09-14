@@ -6,3 +6,5 @@ selenium and Regular Expression chosen for implementation of a link scraping.
 
 
 [Wiki E-commerce](https://en.wikipedia.org/wiki/E-commerce) site is used in main.py
+
+
