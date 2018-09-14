@@ -1,4 +1,12 @@
+'''
+Authors : Rakesh Sharma, Bharat purohit
 
+
+install selenium if not installed.
+change path of driver accordingly.
+change value of base_url accordingly
+
+'''
 
 
 
@@ -31,3 +39,6 @@ try:
 except:
     pass
 driver.close()
+
+
+
